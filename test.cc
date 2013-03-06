@@ -8,7 +8,9 @@ int main()
 
    cout << "I am in Denver, CO\n";
 
-   cout << "till Sunday\n";
+   cout << "until Sunday\n";
+
+   cout << "This is great!\n";
 
    return 0;
 }

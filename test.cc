@@ -14,7 +14,7 @@ int main()
 
    cout << "This is great!\n";
 
-   cout << "I will be sore\n";
+   cout << "I will be sore, but I will be OK\n";
 
    return 0;
 }
